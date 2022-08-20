@@ -1,2 +1,1 @@
-# botdiscord
-bot discord Rrfanx
+# s-f-rdan-bot-serisi-s2
